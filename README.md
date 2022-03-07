@@ -15,4 +15,4 @@ a student ID. Below is an example of a student who has all the correct answers:
 The script must be placed in the same location of the data. Output file will include the student's ID and grade.
 
 ## License
-Distributed under the MIT License. See the **UNLICENSE** file for more information.
+Free to use. See the **UNLICENSE** file for more information.
