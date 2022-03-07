@@ -12,7 +12,8 @@ a student ID. Below is an example of a student who has all the correct answers:
     >N12345678,B,A,D,D,C,B,D,A,C,C,D,B,A,B,A,C,B,D,A,C,A,A,B,D,D
 
 ## Usage
-The script must be placed in the same location of the data. Output file will include the student's ID and grade.
+- The script must be placed at the same location of the data. It asks for input data first, simply enter the file name (without .TXT extension) then if found, general statistics and invalid data (if any) are displayed
+- Output TXT file (for valid data) includes the student's ID and grade.
 
 ## License
 Free to use. See the **UNLICENSE** file for more information.
